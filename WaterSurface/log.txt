@@ -1,0 +1,39 @@
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Could not open file: shaderswall.vert
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Could not open file: shaders\wall.vert
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Could not open file: wall.vert
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
+Graphics widget constructor!
+Using version 4.3.0 - Build 22.20.16.4836
+Timer started!
